@@ -1,0 +1,12 @@
+{
+  "name": "qiita-article",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "nanari",
+  "license": "MIT",
+  "devDependencies": {
+    "@qiita/qiita-cli": "^1.6.1"
+  }
+}
